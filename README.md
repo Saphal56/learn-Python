@@ -1,1 +1,1 @@
-# learn-Python
+Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming.Here, I have discussed few topics of python such as functions , tuples, lists and so on.
